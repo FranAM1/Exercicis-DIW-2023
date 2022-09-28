@@ -1,0 +1,27 @@
+#exercise{
+    width: 1000px;
+    height: 500px;
+    background-color:  #FCE13D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#title{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px 0 0 0;
+}
+
+#ipsum{
+    font-weight: bold;
+}
+
+#restaurant{
+    margin: 0px;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
